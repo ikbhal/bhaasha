@@ -1,0 +1,12 @@
+1) hindi basha 
+
+---
+1) student parent find teacher 
+1) assume teacher already registered few start with defautl iqbal(asma, salma, iqbal, sumiya )
+1) book teacher for student 
+1) assume one student for now 
+1) see class schedule 
+3 days per week , evening time 4pm to 5pm 
+1) see the meeting link for the class at date , join 
+for now meeting link fixed 
+https://meet.google.com/xxv-eies-ixb

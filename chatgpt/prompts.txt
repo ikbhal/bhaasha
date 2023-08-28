@@ -1,0 +1,51 @@
+Bismmillah
+
+Lets create hindi learning membership website.
+
+tech: 
+node.js express sqlite  jquery mobile website boostrap 
+
+requirements
+1) user register(username, passsword, mobile_number, email , full name)
+2) uer login (username, password)
+3) user take role as teacher 
+4) user take as student 
+5) hindi language levels 
+6) hindi test 
+7) hindi chapters  list 
+8) teacher calendar 
+9) teacher create class event in his calendar 
+   start time, end time 
+
+10) student join teacher class 
+11) batch (start date time, end date time)
+12) teacher start batch , teach the batch 
+13) student join the batch 
+14) in batch, we can see the calendar batch 
+15) batch calendar, class event marked (start date time, end date time)
+16) attach meeting link at class event 
+17)search teacher 
+18) teache profile (address, email, moobile, username)
+19) student profile(addresss, email, mobile, unsermae)
+20) user can chat with other user 
+21) batch students can chat among themselves
+22) teacher take hindi test 
+23) student can take test, see the result 
+24) hindi have  section 1) read,2) write 3) listen 4) speak 5) understand
+25) webrtc later video connection
+26) video record class 
+27) 1 to 1 class teacher student 
+28) group class 1 to 6 max  for studenet teachers 
+29) student can teacher other students 
+30) student group 
+31) random call between students to practice hindi 
+32) games on hindi 
+33) hindi quotes 
+34) hindi short stories 
+35) investment small for  teacher
+36) donatino for poor student by other 
+37) customer target 1) poor student 2) middle class student in aparmtments 
+38) reach aparment for student parents 
+39) referral bonus of parents 
+40) teaching weekend - teach kids free hindi 
+
